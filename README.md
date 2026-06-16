@@ -7,7 +7,7 @@ Associate Degree Graduate in Computer Programming from Kırklareli University. I
 * ☁️ Preparing for the **Microsoft Azure Fundamentals (AZ-900)** to specialize in cloud infrastructure.
 
 # 🛠️ Tech Stack & Skills
-* **Languages & Web:** HTML5, CSS3, JavaScript
+* **Languages & Web:** HTML, CSS, JavaScript, Java, PHP, Python, SQL.
 * **IT Operations:** System Troubleshooting, Hardware Maintenance, Technical Support
 
 # 📂 Featured Projects
