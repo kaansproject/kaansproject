@@ -11,8 +11,8 @@ Associate Degree Graduate in Computer Programming from Kırklareli University. I
 * **IT Operations:** System Troubleshooting, Hardware Maintenance, Technical Support
 
 # 📂 Featured Projects
-* **[My Personal Portfolio Website](https://kaansproject.github.io/my-portfolio/)** - Showcase my background and technical journey.
-* **[IT Support & Cloud Knowledge Base](https://github.com/kaansproject/Cloud-Learning-Journey)** - A dedicated repository tracking my progress, documentation, and hands-on projects in cloud infrastructure and Azure administration.
+* **[My Personal Portfolio Website](https://kaansproject.github.io/my-portfolio/)** - My official personal branding website showcasing my technical skills, software development projects, and professional background.
+* **[IT Support & Cloud Knowledge Base](https://github.com/kaansproject/Cloud-Learning-Journey)** - A comprehensive collection of technical guides and troubleshooting documentation for Windows network, Active Directory, and Azure cloud infrastructure.
  
 # 💬 Connect with Me!
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/kaan-akarsular/)**
