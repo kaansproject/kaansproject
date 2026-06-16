@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Kaan! 👋
 
-<!--
-**kaansproject/kaansproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Degree Graduate in Computer Programming from Kırklareli University. I am a passionate Junior IT Specialist focused on system infrastructure, modern networking, and cloud operations. 
 
-Here are some ideas to get you started:
+# 🎯 Current Focus & Goals
+* 🌐 Actively studying for the **Cisco CCNA** certification to master routing, switching, and network security.
+* ☁️ Preparing for the **Microsoft Azure Fundamentals (AZ-900)** to specialize in cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Tech Stack & Skills
+* **Languages & Web:** HTML5, CSS3, JavaScript
+* **IT Operations:** System Troubleshooting, Hardware Maintenance, Technical Support
+
+# 📂 Featured Projects
+* **[My Personal Portfolio Website]([Portfolyo Linkin])** - A 3-page professional portfolio built entirely with custom HTML and CSS to showcase my background and technical journey.
+
+# 💬 Connect with Me!
+* 💼 [LinkedIn Profile])([https://www.linkedin.com/in/kaan-akarsular/])
