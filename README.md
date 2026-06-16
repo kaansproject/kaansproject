@@ -11,8 +11,8 @@ Associate Degree Graduate in Computer Programming from Kırklareli University. I
 * **IT Operations:** System Troubleshooting, Hardware Maintenance, Technical Support
 
 # 📂 Featured Projects
-* **[My Personal Portfolio Website](https://kaansproject.github.io/my-portfolio/)** - A 3-page professional portfolio built entirely with custom HTML and CSS to showcase my background and technical journey.
-* 
+* **[My Personal Portfolio Website](https://kaansproject.github.io/my-portfolio/)** - Showcase my background and technical journey.
+  
 # 💬 Connect with Me!
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/kaan-akarsular/)**
 * 💼 **[Seek Profile](https://au.seek.com/profiles/kaan-akarsular-qNXXFMv8rc)** 
