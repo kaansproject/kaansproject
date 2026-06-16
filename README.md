@@ -16,4 +16,5 @@ Associate Degree Graduate in Computer Programming from Kırklareli University. I
  
 # 💬 Connect with Me!
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/kaan-akarsular/)**
-* 💼 **[Seek Profile](https://au.seek.com/profiles/kaan-akarsular-qNXXFMv8rc)** 
+* 💼 **[Seek Profile](https://au.seek.com/profiles/kaan-akarsular-qNXXFMv8rc)**
+* 💼 **[Github Profile](https://github.com/kaansproject/)** 
