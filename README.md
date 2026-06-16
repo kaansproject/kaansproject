@@ -12,7 +12,8 @@ Associate Degree Graduate in Computer Programming from Kırklareli University. I
 
 # 📂 Featured Projects
 * **[My Personal Portfolio Website](https://kaansproject.github.io/my-portfolio/)** - Showcase my background and technical journey.
-  
+* **[My Personal Portfolio Website](https://github.com/kaansproject/Cloud-Learning-Journey)** - A dedicated repository tracking my progress, documentation, and hands-on projects in cloud infrastructure and Azure administration.
+* 
 # 💬 Connect with Me!
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/kaan-akarsular/)**
 * 💼 **[Seek Profile](https://au.seek.com/profiles/kaan-akarsular-qNXXFMv8rc)** 
