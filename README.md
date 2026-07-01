@@ -1,4 +1,4 @@
-# Hi there, I'm Kaan but you can call me Kane! 👋
+# Hi there, I'm Kaan but you can call me Kean! 👋
 
 Associate Degree Graduate in Computer Programming from Kırklareli University. I am a passionate Junior IT Specialist focused on system infrastructure, modern networking, and cloud operations. 
 
